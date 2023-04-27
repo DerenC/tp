@@ -1,12 +1,5 @@
 //@@author daniellingzy-unused
 
-/**
- * All the code in this folder were not used as I wanted to merge it too close to the deadline.
- * As the common classes were mostly adapted from Ab3, these codes do not really value-add to the final submission as well.
- * Hence I placed these codes under unused folder instead.
- */
-
-
 package vimification.common.core;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
